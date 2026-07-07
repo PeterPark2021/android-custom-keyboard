@@ -1,0 +1,6 @@
+{
+  "name": "Android Custom Keyboard Simulator",
+  "description": "A high-fidelity simulator for a custom Android keyboard featuring QWERTY, Cheonjiin, and Naratgul layouts, ML-based next-word predictive recommendations, clipboard management, quick phrases, autocorrection, voice-typing, theme customizer, and a full-featured virtual smartphone emulator.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

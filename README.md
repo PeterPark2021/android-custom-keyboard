@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
@@ -19,7 +18,3 @@ View your app in AI Studio: https://ai.studio/apps/e519efb6-e664-4ead-94e0-3d97e
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-=======
-# android-custom-keyboard
-android-custom-keyboard
->>>>>>> 78d82e6bf41757353eb6413b6487400e0b485e31
